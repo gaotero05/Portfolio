@@ -24,11 +24,11 @@ Setup instructions:
 3. Run "NPM run dev" in directory
 
 Features:
-About
+1. About 
 -Short description of myself and skills
-Home
+2. Home 
 -Small showcase of projects and what to expect
-Contact
+3. Contact 
 -Contact information and form
-Projects
+4. Projects 
 -Display of projects with short discriptions and collaborators
