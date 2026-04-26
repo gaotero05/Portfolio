@@ -31,6 +31,7 @@ function Contact() {
    <li>Guillermo Otero</li>
    <li>Location: Inverness FL</li>
    <li>Email: gu830518@ucf.edu</li>
+   <li>Phone: (123)-456-7890</li>
   </ul>
 
   <form onSubmit={handleSubmit}>
